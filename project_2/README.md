@@ -1,0 +1,1 @@
+This project is a classic animated hamburger menu icon, which transitions into a close icon (X) upon clicking and reverts back to the hamburger icon upon a subsequent click. 
