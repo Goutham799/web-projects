@@ -2,7 +2,7 @@ HTML CSS JAVASCRIPT PROJECTS
 
 PROJECT 1 - DIGITAL-CLOCK
 
-![image](https://github.com/user-attachments/assets/c7ee181f-e79a-4c2b-a8bc-c61db6c1dcaf)
+![image]((https://github.com/Goutham799/web-dev/assets/59788008/d2edfa32-3496-4db9-a7bb-450a560d9ac3)
 
 
 PROJECT 2 - ANIMATION
