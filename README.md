@@ -2,8 +2,12 @@ HTML CSS JAVASCRIPT PROJECTS
 
 PROJECT 1 - DIGITAL-CLOCK
 
-![alt text](image-1.png)
+![alt text](digital-clock\clock.png)
 
 PROJECT 2 - ANIMATION
 
-![alt text](image.png)
+![alt text](animation\animation.png)
+
+PROJECT 3 - BLURRU-LOADING
+
+![alt text](blurry-loading\blurry-loading.png)
